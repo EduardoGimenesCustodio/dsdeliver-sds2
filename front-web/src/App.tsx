@@ -1,9 +1,11 @@
 import './App.css';
 
+import Navbar from './NavBar/index';
+
 function App() {
   return (
     <div>
-      <p>oie</p>
+      <Navbar />
     </div>
   );
 }
